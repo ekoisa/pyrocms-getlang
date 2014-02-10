@@ -59,4 +59,4 @@ class Plugin_Getlang extends Plugin
     }
 
 }
-/* End of file agent.php */
+/* End of file getlang.php */
